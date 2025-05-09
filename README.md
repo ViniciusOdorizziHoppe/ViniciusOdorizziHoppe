@@ -1,7 +1,7 @@
 ## Olá, Eu sou O Vinicius Odorizzi Hoppe
 
 <div>
-<img height="180" src="(https://github-readme-stats.vercel.app/api?username=ViniciusOdorizziHoppe&theme=dracula&show_icons=true&hide_border=true&count_private=true">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ViniciusOdorizziHoppe&theme=dracula&show_icons=true&hide_border=true&count_private=true">
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=ViniciusOdorizziHoppe&theme=dracula&show_icons=true&hide_border=true&count_private=true">
 </div>
 
