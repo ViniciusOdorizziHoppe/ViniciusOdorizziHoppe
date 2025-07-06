@@ -7,17 +7,15 @@
 
 ## Atualmente estou estudando Essas Tecnologias !
 <div>
- <img  height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
- <img  height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
- <img  height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
- <img  height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img src="https://icongr.am/devicon/html5-original.svg?size=80&color=currentColor"></img>
+<img src="https://icongr.am/devicon/css3-original.svg?size=80&color=currentColor"></img>
+<img src="https://icongr.am/devicon/javascript-original.svg?size=80&color=currentColor"></img>
+<img src="https://icongr.am/devicon/nodejs-original.svg?size=80&color=currentColor"></img>
+<img src="https://icongr.am/devicon/java-original.svg?size=80&color=currentColor"></img>
+<img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=80&color=currentColor"></img>
+               
 </div>
  
- ## Frameworks !
- <img  height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-
- ## Banco de Dados
- <img  height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
           
           
           
