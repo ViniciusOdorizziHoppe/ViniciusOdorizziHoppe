@@ -1,8 +1,8 @@
 ## Olá, Eu sou O Vinicius Odorizzi Hoppe
 
 <div>
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ViniciusOdorizziHoppe&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOdorizziHoppe&theme=dracula&show_icons=true&hide_border=true&layout=compact"  />
+<img height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusOdorizziHoppe&theme=radical&hide_border=true"  />
+<img height="250" width="420"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOdorizziHoppe&theme=radical&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 ## Atualmente estou estudando Essas Tecnologias !
