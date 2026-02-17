@@ -3,7 +3,7 @@
 Estudante de Técnico em Informática (IFC) focado em **Back-end**.  
 Construindo projetos com **Node.js, MySQL e Java**, e evoluindo para apps mais completos e escaláveis.
 
-🔹 Buscando: **Estágio / Jr (remoto ou híbrido)**  
+🔹 Buscando: **Estágio / Jr (remoto)**  
 🔹 Interesses: APIs, bancos de dados, automação e produtos digitais
 
 ---
