@@ -1,23 +1,27 @@
-## Olá, Eu sou O Vinicius Odorizzi Hoppe
+# Olá, eu sou o Vinicius Odorizzi Hoppe 👋
 
-<div>
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusOdorizziHoppe&theme=radical&hide_border=true"  />
-<img height="150" width="320"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOdorizziHoppe&theme=radical&show_icons=true&hide_border=true&layout=compact" />
-</div>
+Estudante de Técnico em Informática (IFC) focado em **Back-end**.  
+Construindo projetos com **Node.js, MySQL e Java**, e evoluindo para apps mais completos e escaláveis.
 
-## Atualmente estou estudando Essas Tecnologias !
-<div>
-<img src="https://icongr.am/devicon/html5-original.svg?size=80&color=currentColor"></img>
-<img src="https://icongr.am/devicon/css3-original.svg?size=80&color=currentColor"></img>
-<img src="https://icongr.am/devicon/javascript-original.svg?size=80&color=currentColor"></img>
-<img src="https://icongr.am/devicon/react-original.svg?size=80&color=currentColor"></img>          
-<img src="https://icongr.am/devicon/nodejs-original.svg?size=80&color=currentColor"></img>
-<img src="https://icongr.am/devicon/java-original.svg?size=80&color=currentColor"></img>
-<img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=80&color=currentColor"></img>
-               
-</div>
- 
-          
+🔹 Buscando: **Estágio / Jr (remoto ou híbrido)**  
+🔹 Interesses: APIs, bancos de dados, automação e produtos digitais
+
+---
+
+## 🧰 Tecnologias
+**Back-end:** Node.js, Express, Java  
+**Front-end:** HTML, CSS, JavaScript, React (básico)  
+**Banco de dados:** MySQL  
+**Ferramentas:** Git, GitHub
+
+---
+
+## 📌 Contato
+- LinkedIn: www.linkedin.com/in/vinicius-odorizzi-5aa319353
+- Email: viniciushoppe@outlook.com
+
+---
+⭐ Se curtir algum projeto, deixa uma estrela!
           
           
           
