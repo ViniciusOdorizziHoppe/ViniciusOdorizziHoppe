@@ -10,7 +10,7 @@ Construindo projetos com **Node.js, MySQL e Java**, e evoluindo para apps mais c
 
 ## 🧰 Tecnologias
 **Back-end:** Node.js, Express, Java  
-**Front-end:** HTML, CSS, JavaScript, React (básico)  
+**Front-end:** HTML, CSS, JavaScript 
 **Banco de dados:** MySQL  
 **Ferramentas:** Git, GitHub
 
