@@ -62,8 +62,8 @@ const vinicius = {
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusOdorizziHoppe&show_icons=true&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=ffffff&icon_color=a78bfa" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOdorizziHoppe&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=ffffff" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ViniciusOdorizziHoppe&show_icons=true&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=ffffff&icon_color=a78bfa" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ViniciusOdorizziHoppe&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=ffffff" height="170" alt="Top Languages"/>
 </div>
 
 <div align="center">
@@ -78,7 +78,11 @@ const vinicius = {
 
 ### 🐍 Atividade Recente
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ViniciusOdorizziHoppe/ViniciusOdorizziHoppe/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusOdorizziHoppe/ViniciusOdorizziHoppe/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniciusOdorizziHoppe/ViniciusOdorizziHoppe/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ViniciusOdorizziHoppe/ViniciusOdorizziHoppe/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
