@@ -62,12 +62,12 @@ const vinicius = {
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusOdorizziHoppe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&icon_color=a78bfa" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOdorizziHoppe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusOdorizziHoppe&show_icons=true&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=ffffff&icon_color=a78bfa" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOdorizziHoppe&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=ffffff" height="170" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ViniciusOdorizziHoppe&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" width="100%" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ViniciusOdorizziHoppe&theme=tokyonight&hide_border=true&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" width="100%" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
